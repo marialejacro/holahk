@@ -4,7 +4,7 @@
 	<title> Prueba App Empresaliales</title>
 </head>
 <body>
-	<?php echo '<p>Hola Apps Empresariales</p>'; ?>
+	<?php echo '<p>Hola mundo Maria Alejandra Celemin</p>'; ?>
 </body>
 
 </html>
